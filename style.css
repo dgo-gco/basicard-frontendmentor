@@ -78,12 +78,12 @@ h1 {
 }
 
 .change {
-    text-decoration: none;
     color: hsl(245, 75%, 52%);
     margin-left: 80px;
 }
 
 .change:hover {
+    text-decoration: none;
     color: hsl(245, 67%, 60%);
 }
 
@@ -131,6 +131,7 @@ button:hover {
 
 
 .attribution { 
+    margin-top: 70px;
     font-size: 11px; 
     text-align: center; 
     display: flex;
